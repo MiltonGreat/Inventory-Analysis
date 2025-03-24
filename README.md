@@ -1,4 +1,4 @@
-# Inventory Management Optimization
+# Inventory Management Analysis
 
 ## Overview
 
